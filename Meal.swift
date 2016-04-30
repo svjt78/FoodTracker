@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Meal: NSObject, NSCoding {
+class Meal: NSObject, NSCoding { 
     // MARK: Properties
     
     var name: String
